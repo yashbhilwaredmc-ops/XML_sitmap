@@ -11,7 +11,7 @@ import time
 
 # Set page configuration
 st.set_page_config(
-    page_title="Advanced Hreflang Analysis Tool",
+    page_title="Advanced Hreflang & XML Sitemap Analysis Tool",
     page_icon="🌐",
     layout="wide",
     initial_sidebar_state="expanded"
