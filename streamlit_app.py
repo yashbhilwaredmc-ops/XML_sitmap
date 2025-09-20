@@ -269,7 +269,7 @@ def generate_fixes(results_data):
 
 def main():
     # App title and description
-    st.title("🌐 Advanced Hreflang Analysis Tool")
+    st.title("🌐 Advanced Hreflang & XML Sitemap Analysis Tool")
     st.markdown("""
     This tool analyzes hreflang tags for international SEO. 
     Hreflang tags tell search engines what language and regional URLs you have for your content, 
